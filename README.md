@@ -1,1 +1,13 @@
-# Data-Analysis-For-World-happiness-Report-2023
+# Data Analysis For World happiness Report 2023
+
+The inaugural publication of the World Happiness Report dates back to over a decade ago. Coincidentally, this year also marks the tenth anniversary of the United Nations General Assembly's adoption of Resolution 66/281, which declared March 20th as the annual International Day of Happiness. This milestone emphasizes the global importance and recognition of happiness, not just as an individual aspiration, but as a measure of societal success and development.
+
+Over this significant period, there has been a paradigm shift in the way we perceive the success of a nation. Traditional metrics such as GDP and economic growth, while still relevant, are being augmented with considerations of the overall happiness and well-being of citizens. The notion that the prosperity of a country is defined by the happiness of its populace is gaining widespread acceptance.
+
+What's more, the growing consensus on how to measure happiness provides a new dimension to this perspective. This consensus is derived from research and data-driven methodologies, and includes a variety of metrics such as life satisfaction, sense of purpose, financial stability, physical health, social connections, and freedom to make life choices. With a consistent and universally accepted means to measure happiness, it has the potential to become a significant operational goal for governments around the world.
+
+Governments are beginning to realize that policy decisions need to be evaluated not just on economic grounds, but also on their impact on the happiness and well-being of their citizens. It is a holistic approach to governance and societal development, wherein success is gauged not solely by tangible economic indicators, but also by intangible yet critical factors such as happiness and contentment.
+
+As we celebrate the International Day of Happiness this year, it serves as a reminder of the strides we have made in this direction. But, it also underscores the journey ahead in ensuring that happiness is at the forefront of national policies and that governments worldwide recognize and work towards enhancing the well-being of their people. The World Happiness Report, with its rich insights and comprehensive analysis, remains a pivotal resource in this endeavor.
+
+Therefore, in this project, we analyzed a dataset from the World Happiness Report, spanning the years 2008 to 2022 (this dataset also contains data points before 2008). It comprises metrics that reflect a nation's happiness and well-being. This dataset was assembled based on responses gathered from the Gallup World Poll, focusing on the quality of life and well-being factors.
